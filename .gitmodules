@@ -1,6 +1,6 @@
-[submodule "rocksdb"]
-	path = rocksdb
-	url = https://github.com/facebook/rocksdb.git
 [submodule "rqg"]
 	path = rqg
 	url = https://github.com/yoshinorim/rqg.git
+[submodule "rocksdb"]
+	path = rocksdb
+	url = git@github.com:hkust-comp4981-di2-2023/rocksdb.git
